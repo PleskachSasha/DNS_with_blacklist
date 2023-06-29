@@ -1,0 +1,4 @@
+upstream_server=8.8.8.8
+response=Blocked domain
+domain=google.com
+domain=dou.ua
